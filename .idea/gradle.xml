@@ -12,6 +12,26 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Application/LevelEngine" />
+        <option name="gradleJvm" value="temurin-18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Application/LevelEngine" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Application/com.fs3d.GameLoop" />
+        <option name="gradleJvm" value="temurin-18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Application/com.fs3d.GameLoop" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
